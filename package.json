@@ -1,0 +1,22 @@
+{
+  "name": "line_test",
+  "version": "1.0.0",
+  "description": "Test each line of your code",
+  "main": "index.js",
+  "scripts": {
+    "test": "line_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuberlog/line_test.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "kuberlog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuberlog/line_test/issues"
+  },
+  "homepage": "https://github.com/kuberlog/line_test#readme"
+}
